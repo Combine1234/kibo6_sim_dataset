@@ -1,0 +1,6 @@
+path: D:\train_ai\dataset
+train: D:\train_ai\dataset\train\images
+val: D:\train_ai\dataset\val\images
+
+nc: 11
+names: ['coin', 'compass', 'coral', 'crystal', 'diamond', 'emerald', 'fossil', 'key', 'letter', 'shell', 'treasure_box']
